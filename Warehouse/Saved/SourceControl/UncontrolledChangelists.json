@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/geoja/OneDrive/Documents/Unreal Projects/Warehouse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/geoja/OneDrive/Documents/Unreal Projects/Warehouse/Content/BP_Projectile.uasset",
+				"C:/Users/geoja/OneDrive/Documents/Unreal Projects/Warehouse/Content/Warehouse.umap",
+				"C:/Users/geoja/OneDrive/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/geoja/OneDrive/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/BP_Barrel1.uasset"
+			]
+		}
+	]
+}
